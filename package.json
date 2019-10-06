@@ -1,0 +1,19 @@
+{
+  "name": "pizza-ordering",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AMANSINGH1998/pizza-ordering.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AMANSINGH1998/pizza-ordering/issues"
+  },
+  "homepage": "https://github.com/AMANSINGH1998/pizza-ordering#readme"
+}
