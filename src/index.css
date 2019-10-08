@@ -1,0 +1,162 @@
+/* menu.html */
+.bg-img {
+  /* The image used */
+  background-image: url("https://www.foodiesfeed.com/wp-content/uploads/2019/02/messy-pizza-on-a-black-table.jpg");
+  min-height: 700px;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+a:link {
+   color:black;
+   background-color:white;
+  
+}
+
+di {
+  background-color: grey;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+  margin-left:1200px;
+}
+
+ss {
+  margin-left:550px;
+  margin-top:35%;
+  opacity: 0.9;
+  cursor: pointer;
+}
+ff {
+   margin-top:250px;
+}
+
+/* non.html */
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 30.3%;
+  padding: 4px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.fig {
+    color:white;
+    margin-left:60px;
+  margin-right:320px;
+  background-color:red;
+}
+
+
+/* log.html */
+body, html {
+  height: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.bg-img {
+  /* The image used */
+  background-image: url("https://previews.123rf.com/images/natavkusidey/natavkusidey1411/natavkusidey141100186/33398773-pizza-with-bacon-mozzarella-and-spinach-in-a-dark-woody-background-tinting-selective-focus-on-spinac.jpg");
+  min-height: 700px;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+/* Add styles to the form container */
+.container {
+  position: absolute;
+  right: 0;
+  margin: 20px;
+  max-width: 300px;
+  height:700px;
+  padding: 15px;
+  background-color:;
+}
+
+/* Full-width input fields */
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 22px 0 22px 0;
+  border: none;
+  background: white;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+  background-color: white;
+  outline: none;
+}
+
+/* Set a style for the submit button */
+.btn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+.sig {
+    background-color: black;
+    color: white;
+  padding: 15px;
+  border: none;
+    cursor: pointer;
+    width: 50%;
+    opacity: 0.9;
+}
+.sig:hover {
+  opacity: 1;
+}
+
+
+/* veg.html */
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 30.33%;
+  padding: 4px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.fig {
+    color:white;
+    margin-left:60px;
+  margin-right:320px;
+  background-color:green;
+}
